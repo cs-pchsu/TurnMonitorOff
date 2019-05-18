@@ -1,0 +1,18 @@
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\bin\Debug\TurnMonitorOff.exe.config
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.csprojResolveAssemblyReference.cache
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.Form1.resources
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.Properties.Resources.resources
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.csproj.GenerateResource.Cache
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\bin\Debug\TurnMonitorOff.exe
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\bin\Debug\TurnMonitorOff.pdb
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.exe
+c:\users\pchsu\documents\visual studio 2012\Projects\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.pdb
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\bin\Debug\TurnMonitorOff.exe.config
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.exe
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.pdb
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\bin\Debug\TurnMonitorOff.exe
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\bin\Debug\TurnMonitorOff.pdb
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.csprojResolveAssemblyReference.cache
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.Form1.resources
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.Properties.Resources.resources
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Debug\TurnMonitorOff.csproj.GenerateResource.Cache

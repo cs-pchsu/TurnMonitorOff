@@ -1,0 +1,18 @@
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\bin\Release\TurnMonitorOff.exe.config
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\bin\Release\TurnMonitorOff.exe
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\bin\Release\TurnMonitorOff.pdb
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.Form1.resources
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.Properties.Resources.resources
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.csproj.GenerateResource.Cache
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.exe
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.pdb
+C:\Users\pchsu\Desktop\program test\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.csprojResolveAssemblyReference.cache
+C:\my_project\TurnMonitorOff\TurnMonitorOff\bin\Release\TurnMonitorOff.exe.config
+C:\my_project\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.exe
+C:\my_project\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.pdb
+C:\my_project\TurnMonitorOff\TurnMonitorOff\bin\Release\TurnMonitorOff.exe
+C:\my_project\TurnMonitorOff\TurnMonitorOff\bin\Release\TurnMonitorOff.pdb
+C:\my_project\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.csprojResolveAssemblyReference.cache
+C:\my_project\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.Form1.resources
+C:\my_project\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.Properties.Resources.resources
+C:\my_project\TurnMonitorOff\TurnMonitorOff\obj\Release\TurnMonitorOff.csproj.GenerateResource.Cache
